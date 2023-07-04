@@ -1,0 +1,64 @@
+html{
+    font-family:'Monserrat','Poppins', sans-serif;
+}
+body{
+    margin:0;
+    background-color: #efefef;
+}
+header{
+    background-color: midnightblue;
+    color:white;
+    padding: 3rem 3rem;
+}
+header h1{
+    font-size: 4rem;
+    text-align: center;
+}
+nav{
+    float: left;
+}
+nav ul{
+    list-style:none;
+    overflow:hidden ;
+}
+nav ul li{
+    float: left;
+    
+}
+nav ul li a{
+    display: block;
+    padding-right: 40px;
+    padding-left: 40px;
+    color: white;
+    text-decoration: none;
+}
+section article h2 {
+    text-align:center;
+    text-shadow: 3px 5px 5px midnightblue;
+}
+section article p {
+    display: block;
+    padding: 30px;
+    text-align: justify;
+}
+img{
+    display: block;
+    margin: auto;
+}
+footer{
+    background-color: #222;
+    padding: 3rem;
+    color: #fff;
+}
+footer section{
+    float: right;
+}
+footer p{
+    margin:0;
+}
+
+footer a{
+ 
+    color:#fff;
+    text-decoration: none;
+}

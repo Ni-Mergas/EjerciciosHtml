@@ -1,0 +1,21 @@
+section{
+    text-align: center;
+}
+.negrita{
+    
+    font-weight: bold;
+}
+.cursiva{
+    
+    font-style: italic;
+
+}
+.lineaMedia{
+    
+    text-decoration: line-through;
+
+}
+.lineaBajo{
+    
+    text-decoration: underline;
+}
